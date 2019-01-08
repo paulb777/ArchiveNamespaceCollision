@@ -1,0 +1,18 @@
+PODS:
+  - GoogleUtilities/Environment (5.3.6)
+  - "GoogleUtilities/NSData+zlib (5.3.6)"
+
+DEPENDENCIES:
+  - GoogleUtilities/Environment (from `/Users/paulbeusterien/github/firebase-ios-sdk`)
+  - "GoogleUtilities/NSData+zlib (from `/Users/paulbeusterien/github/firebase-ios-sdk`)"
+
+EXTERNAL SOURCES:
+  GoogleUtilities:
+    :path: "/Users/paulbeusterien/github/firebase-ios-sdk"
+
+SPEC CHECKSUMS:
+  GoogleUtilities: 09a6a81928edf5282e7abaa79392fa51a1352041
+
+PODFILE CHECKSUM: 37b7d7ed1548451831eee24a109fb80fa843a64f
+
+COCOAPODS: 1.5.3

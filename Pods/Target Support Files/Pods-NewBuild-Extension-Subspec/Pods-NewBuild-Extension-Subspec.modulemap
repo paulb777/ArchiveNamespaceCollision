@@ -1,0 +1,6 @@
+framework module Pods_NewBuild_Extension_Subspec {
+  umbrella header "Pods-NewBuild-Extension-Subspec-umbrella.h"
+
+  export *
+  module * { export * }
+}
