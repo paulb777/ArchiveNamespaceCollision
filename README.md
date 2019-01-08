@@ -22,3 +22,7 @@ intermediate frameworks into the same directory instead of separate directories 
 Note the new error would make more sense if the frameworks were dynamic since there would be an eventual collision in the app bundle's
 Frameworks folder. However, even in the dynamic case, it would be nice if the error occurred for regular builds instead of only
 at Archive time.
+
+## Additional Background
+
+* https://github.com/CocoaPods/CocoaPods/issues/8206
